@@ -88,14 +88,6 @@ This analysis provides a clear picture of startup investment patterns in India a
 
 ---
 
-## 📂 Project Files
-
-- `SharkTank_India_Investments.csv` – Raw dataset of pitches and investments  
-- `SharkTank_Analysis.ipynb` – Python analysis notebook (EDA, charts, insights)  
-- `PowerBI_Dashboard.pbix` – Interactive dashboard showcasing KPIs and trends  
-- `README.md` – Project documentation  
-
----
 
 ## ⚡ Tools & Technologies
 
